@@ -6,10 +6,6 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * Represents a registered user in the ticketing platform.
- * Mapped to the 'users' table in PostgreSQL.
- */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
